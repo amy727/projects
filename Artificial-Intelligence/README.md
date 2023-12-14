@@ -1,4 +1,4 @@
-This directory contains the projects for the ROB311 - Artificial Intelligence course.
+Projects for Artificial Intelligence:
 
 * Project01 - State-space search algorithms
 * Project02 - Structured Problem Solving and Planning

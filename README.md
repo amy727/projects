@@ -1,4 +1,5 @@
-This repo contains the projects done for the following courses:
+This repo contains projects for:
 
-* Artificial Intelligence (ROB311)
-* Machine Intelligence, Software and Neural Networks (ECE324)
+* Artificial Intelligence
+* Machine Intelligence, Software and Neural Networks
+* Computer Vision for Robotics
